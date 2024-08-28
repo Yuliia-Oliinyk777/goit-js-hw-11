@@ -58,9 +58,9 @@
   transform: rotateZ(45deg);
   perspective: 1000px;
   border-radius: 50%;
-  width: 48px;
-  height: 48px;
-  color: #fff;
+  width: 72px;
+  height: 72px;
+  color: #4e75ff;
   position: relative;
   margin: 0 auto; /* Центрирует лоудер */
 }
@@ -80,7 +80,7 @@
 }
 
 .loader:after {
-  color: #ff3d00;
+  color: #1aff00;
   transform: rotateY(70deg);
   animation-delay: 0.4s;
 }
